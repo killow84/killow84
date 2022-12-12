@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="GitLab" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Grafana" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="RaspberryPi" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="VIM" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" style="padding-right:10px;" />
 <br></br>
   <summary>:zap: GitHub Stats</summary>
    <br />
