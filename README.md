@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Stats</summary>
    <br />
   <img align="left" alt="killow84 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=killow84&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
   <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://dev.to/aryclenio/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="winy52000@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
